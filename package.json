@@ -1,0 +1,26 @@
+{
+  "name": "node-js-playlist",
+  "version": "1.0.0",
+  "description": "a little to do app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamshaunjp/node-js-playlist.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamshaunjp/node-js-playlist/issues"
+  },
+  "homepage": "https://github.com/iamshaunjp/node-js-playlist#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "mongoose": "^4.8.7",
+    "nodemon": "^1.11.0"
+  }
+}
